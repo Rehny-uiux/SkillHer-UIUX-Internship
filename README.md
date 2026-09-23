@@ -50,7 +50,7 @@ The design focuses on:
 
 ## Figma Design
 
-[View SkillHer Figma Design](https://www.figma.com/design/UyWDLWHFlqpi5O9ufDgOV3/SkillHer-%E2%80%94-UI-UX-Design-Internship?node-id=0-1&t=ShSLh8Njmg3xnViK-1)
+https://www.figma.com/design/UyWDLWHFlqpi5O9ufDgOV3/SkillHer-%E2%80%94-UI-UX-Design-Internship?node-id=0-1&t=ShSLh8Njmg3xnViK-1
 
 ## Week 1 Outcome
 
